@@ -22,7 +22,7 @@ The lab uses Windows Server 2022, Active Directory, a Windows client machine, Mi
 
 - Windows Server 2022
 - Active Directory Domain Services
-- Windows 11 Client
+- Windows 10 Client
 - Microsoft Entra ID
 - ServiceNow
 - VMware
