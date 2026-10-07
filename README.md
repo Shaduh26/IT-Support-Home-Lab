@@ -3,7 +3,7 @@
 ### 1. New Employee Onboarding
 Created a new Active Directory user account, assigned department access, configured first-logon password requirements, verified domain authentication, and documented the completed onboarding request in ServiceNow.
 
-[View Project](./01-New-Employee-onboarding/)
+[View Project](./01-New-Employee-Onboarding/)
 
 ### 2. Password Reset Troubleshooting
 Processed a password reset request in ServiceNow, reset the user's password in Active Directory, required a password change at next logon, verified successful authentication, and resolved the ticket.
@@ -13,7 +13,7 @@ Processed a password reset request in ServiceNow, reset the user's password in A
 ### 3. Account Lockout Troubleshooting
 Investigated a user sign-in issue, identified an Active Directory account lockout, restored account access, verified successful domain sign-in, and documented the resolution in ServiceNow.
 
-[View Project](./3-Account-Lockot-TroubleShooting/)
+[View Project](./03-Account-Lockout-Troubleshooting/)
 
 ### 4. Active Directory Environment
 Built and configured an Active Directory home lab using Windows Server and a Windows client. Practiced user, group, Organizational Unit, and domain-joined client administration.
