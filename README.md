@@ -18,7 +18,7 @@ Investigated a user sign-in issue, identified an Active Directory account lockou
 ### 4. Active Directory Environment
 Built and configured an Active Directory home lab using Windows Server and a Windows client. Practiced user, group, Organizational Unit, and domain-joined client administration.
 
-[View Project](./04-Active-Directory-Environment/)
+[View Project](./04-Active-Directory-Enviroment/)
 
 ## Skills Demonstrated
 
