@@ -2,7 +2,7 @@
 
 ## Scenario
 HR submitted a request to create a new user account for Olivia Carter, who was joining the Accounting department.
-The goal of this project was to simulate a common onboarding workflow involving account creation, access assignment, first-login password configuration, authentication verification, and ticket documentation.
+This project simulated a common onboarding workflow involving account creation, access assignment, first-login password configuration, authentication verification, and ticket documentation.
 
 ## Environment
 - Windows Server 2022
