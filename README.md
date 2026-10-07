@@ -1,3 +1,9 @@
+# IT Support Home Lab
+
+This repository is where I documented my hands-on IT support projects I’ve been working on while building my skills in Active Directory, user support, account management, and ServiceNow.
+
+I created this lab to practice the kinds of tasks I could expect to handle in an entry-level help desk, service desk, or IT support role. Most of the projects focus on user accounts, access, authentication, troubleshooting, and ticket documentation.
+
 ## Projects
 
 ### 1. New Employee Onboarding
@@ -40,5 +46,8 @@ Built and configured an Active Directory home lab using Windows Server and a Win
 - Active Directory Domain Services
 - Windows client VM
 - VMware
-- Microsoft Entra ID
 - ServiceNow
+
+## What I’m Working Toward
+
+I’m continuing to build hands-on IT support experience and improve my troubleshooting skills. I’m especially interested in user account and access-related work, and I plan to keep adding more projects as I learn.
